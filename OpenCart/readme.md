@@ -3,7 +3,9 @@
 The openCart project v4.0.2.3 contains a server side template injection vulnerability in it's edit theme functionality, which allows an authenticated admin user to execute arbitrary system commands, resulting in remote code execution. By default, the admin panel lacks any anti-bruteforce mechanism, making it easier for an attacker to bruteforce their way into the admin panel.
 
 **Severity** : High
+
 **CVSS Score** : 9.8
+
 **CVSS Vector** : AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 **Affected Version** : 4.0.2.3
