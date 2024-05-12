@@ -15,7 +15,7 @@ The openCart project v4.0.2.3 contains a server side template injection vulnerab
 
 1. Login as admin, intercept the request in burp and send it to intruder.
 
-![[/Images/brute-1.png]]
+![[Images/brute-1.png]]
 
 2. Set the payload position to password and make some payload configurations.
 
