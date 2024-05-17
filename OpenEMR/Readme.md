@@ -69,7 +69,7 @@ The openEMR project contains a broken access control vulnerability that allows a
 ![11](https://github.com/A3h1nt/CVEs/assets/56585189/84bb1483-dedb-4984-ac01-d65d33728aa0)
 
 
-12. Once the request is submitted, we can see the message apear, if we try to view this message now.
+12. Once the request is submitted, we can see the message appear, if we try to view this message now.
 
 ![12](https://github.com/A3h1nt/CVEs/assets/56585189/3ded1819-d8c9-47d6-9c44-2129a31f6365)
 
