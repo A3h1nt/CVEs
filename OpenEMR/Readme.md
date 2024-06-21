@@ -1,5 +1,8 @@
 # OpenEMR
 *Broken Access Control*
+
+[CVE-2024-37734](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-37734) (Status : Reserved)
+
 ### Description
 
 The openEMR project contains a broken access control vulnerability that allows any user to view, edit and delete messages of any arbitrary user on the application. This essentially leads to loss of confidentiality, integrity and availability of the messages. 
@@ -11,6 +14,8 @@ The openEMR project contains a broken access control vulnerability that allows a
 **CVSS Vector** : AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 
 **Fix** : https://github.com/openemr/openemr/pull/7435
+
+**Download Patch** : https://www.open-emr.org/wiki/index.php/OpenEMR_Patches
 
 ### Proof Of Concept
 
