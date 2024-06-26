@@ -5,7 +5,7 @@
 
 ### Description
 
-The openEMR project contains a broken access control vulnerability that allows any user to view, edit and delete messages of any arbitrary user on the application. This essentially leads to loss of confidentiality, integrity and availability of the messages. 
+The openEMR project version 7.0.2 is affected by a broken access control vulnerability that allows an attacker to takeover any arbitrary user's private conversations using the `noteid` parameter in the message POST request, the attacker can essentially view, edit, post and delete messages.
 
 **Severity** : High
 
@@ -15,7 +15,7 @@ The openEMR project contains a broken access control vulnerability that allows a
 
 **Fix** : https://github.com/openemr/openemr/pull/7435
 
-**Download Patch** : https://www.open-emr.org/wiki/index.php/OpenEMR_Patches
+**Download Patch For v7.0.2** : https://www.open-emr.org/wiki/index.php/OpenEMR_Patches
 
 ### Proof Of Concept
 
