@@ -1,7 +1,7 @@
 # OpenEMR
 *Broken Access Control*
 
-[CVE-2024-37734](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-37734) (Status : Reserved)
+[CVE-2024-37734](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-37734)
 
 ### Description
 
