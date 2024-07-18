@@ -1,3 +1,8 @@
+# OpenCart
+*Server Side Template Injection*
+
+[CVE-2024-40420](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-40420)
+
 ### Description
 
 The openCart project v4.0.2.3 contains a server side template injection vulnerability in it's edit theme functionality, which allows an authenticated admin user to execute arbitrary system commands, resulting in remote code execution. This happens due to lack of template sandboxing and blacklisting of potentially dangerous template content.
